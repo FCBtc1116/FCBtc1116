@@ -39,8 +39,11 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 <!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
 <!-- ![CWS](https://user-images.githubusercontent.com/89365150/202695915-8e27499d-c325-49e8-8d1e-9e8ccd88d673.png) -->
-<img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
-
+<h1>
+  <div align="center">
+    <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
+  </div>
+</h1>
 
 
 ## 🌱 Experience
