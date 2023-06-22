@@ -1,4 +1,4 @@
-![image](https://github.com/victoryfox19931116/victoryfox19931116/assets/89193350/d98baff1-379b-441a-a460-6ddae32da34f)### Hi there 👋
+### Hi there 👋
 
 <!--
 **victoryfox19931116/victoryfox19931116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![](https://komarev.com/ghpvc/?username=victoryfox19931116&color=yellow)
 
 - 🤝 💖 👪 Follow Me via Git. 🏀 🥰 🏆
 - Contact to me: victoryfox1116@gmail.com
