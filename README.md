@@ -56,9 +56,11 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Worked in Several Web2 companies and Grow my Web FullStack skills
   
 
-  <summary align="center">More about me</summary>
-  
-⚡ These are languages and frameworks I mostly use:
+
+
+
+
+##⚡ These are languages and frameworks I mostly use:
   
 - Rust and Anchor framework
 - Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
