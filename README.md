@@ -55,13 +55,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - DEX, Defi, DAO, Dapps
 - Worked in Several Web2 companies and Grow my Web FullStack skills
   
-## 📈 Github Status
-<p>
-<img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoryfox19931116&exclude_repo=venture1981.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=victoryfox19931116&sshow_icons=true&theme=radical&count_private=true">
-</p>
 
-<details>
   <summary align="center">More about me</summary>
   
 ⚡ These are languages and frameworks I mostly use:
@@ -73,4 +67,3 @@ As a creative & passionate developer, and fast learner with detail and high qual
 - Node or Python or Go or Ruby or Laravel
 - MongoDB or MySQL or Postgre or Oracle, Firebase
 
-</details>
