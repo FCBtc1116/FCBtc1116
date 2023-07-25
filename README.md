@@ -62,6 +62,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 ## ⚡ These are languages and frameworks I mostly use:
   
+- Bitcoin Ordinals and BitcoinJs Lib(BRC20)
 - Rust and Anchor framework
 - Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
 - Web3 integration
