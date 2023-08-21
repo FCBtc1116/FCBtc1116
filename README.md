@@ -35,13 +35,11 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
   
-## 👨‍💻 Currently working in Seeker Syndicate and [Discord](https://discord.gg/V6fYeBbB) as a Lead Developer.
+## 👨‍💻 Currently working as a Lead Developer in MemeWarsX Company.
 
-<!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
-<!-- ![CWS](https://user-images.githubusercontent.com/89365150/202695915-8e27499d-c325-49e8-8d1e-9e8ccd88d673.png) -->
 <h1>
   <div align="center">
-    <img src="https://lfsolutions.net/wp-content/uploads/2021/12/Full-Stack-Development-Featured-Image-LevelFive-Solutions.gif" width="870px height="870px"/>
+    <img src="https://github.com/victoryfox19931116/victoryfox19931116/assets/89193350/c018fb04-fdeb-498c-93d3-c35ebe206fb2" width="870px height="870px"/>
   </div>
 </h1>
 
