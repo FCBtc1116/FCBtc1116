@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🤝 💖 👪 Follow Me via Git. 🏀 🥰 🏆
 - Contact to me: victoryfox1116@gmail.com
 - Past Projects and Portfolio: 
-  - <a href="https://blockchainportfolio-6884b.web.app">Portfolio</a>
   - <a href="https://github.com/victoryfox19931116/Blockchain-Projects-Overview">Blockchain Projects Overview</a>
 
 <h4 align="center">
