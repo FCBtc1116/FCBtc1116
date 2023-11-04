@@ -34,11 +34,11 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
   
-## 👨‍💻 Currently working as a Lead Developer in MemeWarsX Company.
+## 👨‍💻 Currently working as a Lead Solana Developer in Gladiators Company.
 
 <h1>
   <div align="center">
-    <img src="https://github.com/victoryfox19931116/victoryfox19931116/assets/89193350/c018fb04-fdeb-498c-93d3-c35ebe206fb2" width="870px height="870px"/>
+    <img src="https://github.com/victoryfox19931116/victoryfox19931116/assets/89193350/1504b37b-64c9-4ac8-a0fc-f74a7780ce65" width="870px height="870px"/>
   </div>
 </h1>
 
