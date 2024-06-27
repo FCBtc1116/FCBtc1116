@@ -1,7 +1,7 @@
 #### ⛏ Wʜᴀᴛ ɪ ᴀᴍ ᴅᴏɪɴɢ:
 
 - ✍ Focusing on Fullstack and Blockchain (Bitcoin, Ethereum, Solana) Developement.
-- 🌱 Built ##Rune launchpad, Rune Recursive, Multi SigWallet, Ordinal Marketplace, Ordinal Raffle, BRC20 Marketplace, BTC Defi on Bitcoin network## and NFT, Defi projects on EVM & Solana Network.
+- 🌱 Built ###Rune launchpad, Rune Recursive, Multi SigWallet, Ordinal Marketplace, Ordinal Raffle, BRC20 Marketplace, BTC Defi on Bitcoin network### and NFT, Defi projects on EVM & Solana Network.
 - 💼 Now building Rune Pump Fun On Bitcoin network.
 
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
