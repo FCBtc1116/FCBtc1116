@@ -2,7 +2,7 @@
 
 - ✍ Focusing on Fullstack and Blockchain (Bitcoin, Ethereum, Solana) Developement.
 - 🌱 Built Rune launchpad, Rune Recursive, Multi SigWallet, Ordinal Marketplace, Ordinal Raffle, BRC20 Marketplace, BTC Defi on Bitcoin network and NFT, Defi projects on EVM & Solana Network.
-- 💼 Now Making Ordinals use Recursive On Fractal Network.
+- 💼 Now Making Launchpad what mint Ordinals use Recursive On Fractal Network.
 
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
