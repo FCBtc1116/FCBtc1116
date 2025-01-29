@@ -2,8 +2,8 @@
 
 - ✍ Focusing on Fullstack and Blockchain (Bitcoin, Ethereum, Solana) Developement.
 - 🌱 Join PSBT, BTC Non-Custodial Staking, Recursive Ordinal Collection, Multi SigWallet, Rune launchpad, Rune Recursive, Rune Delegate, RBF, Rare Sats, Runes Pump fun, Ordinal Marketplace, Ordinal Raffle, BRC20 Marketplace, BTC Defi on Bitcoin network and NFT, Defi projects on EVM & Solana Network.
-- 💼 Already made Launchpad what mint Ordinals use Recursive On Fractal Network.
-- ⚒️ Completed Several Smart Contracts(Swap, LP) use Rust on Arch Network.
+- 💼 Already made Several Smart Contracts(Ordinal Lending, Rune & Ordinal Swap, LP) on Arch Network use Rust.
+- ⚒️ Focus on Solana & Bitcoin AI Agent app(voice chatting app use DeepSeek).
 
 #### 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ:
 
